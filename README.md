@@ -1,10 +1,9 @@
-# vk-scripts
-Бесплатные скрипты для ВКонтакте
+# Бесплатные скрипты для ВКонтакте
 
 ## Как запустить скрипт
 
 1. Скачать https://www.continuum.io/downloads Python 3.5 для вашей операционной системы
-2. Дождать установки
+2. Дождаться установки
 3. Отредактировать ярлык у Jupiter Notebook (сменить рабочу папку) 
 ![alt](https://api.monosnap.com/rpc/file/download?id=SeeK3e88SV73rjGozcRbGIu5EQdqtQ)
 4. Запустить Jupiter Notebook
