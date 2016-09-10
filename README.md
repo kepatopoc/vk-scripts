@@ -1,5 +1,8 @@
 # Бесплатные скрипты для ВКонтакте
 
+##Видео-инструкция по запуску
+https://www.youtube.com/watch?v=5ME-N2iOJe4
+
 ## Как запустить скрипт
 
 1. Скачать https://www.continuum.io/downloads Python 3.5 для вашей операционной системы
